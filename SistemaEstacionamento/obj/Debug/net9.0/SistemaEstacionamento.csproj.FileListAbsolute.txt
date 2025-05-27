@@ -12,3 +12,4 @@ C:\Users\walla\RiderProjects\SistemaEstacionamento\SistemaEstacionamento\obj\Deb
 C:\Users\walla\RiderProjects\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.pdb
 C:\Users\walla\RiderProjects\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.genruntimeconfig.cache
 C:\Users\walla\RiderProjects\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net9.0\ref\SistemaEstacionamento.dll
+C:\Users\walla\RiderProjects\SistemaEstacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.sourcelink.json
